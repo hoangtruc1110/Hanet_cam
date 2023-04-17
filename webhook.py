@@ -4,6 +4,7 @@ import requests
 import config
 from pathlib import Path
 
+#Tạo file images trong file chứa code
 #https://documenter.getpostman.com/view/13088306/TVeqcn2C#81576510-b381-4eac-a6b0-a53ba8c9fa90
 
 import json
